@@ -18,7 +18,7 @@ public class InstrucaoJogo {
 
 	public void menu() {
 
-		System.out.println("Bem vindo ao Sudoku obs: Natan é um boiola");
+		System.out.println("Bem vindo ao Sudoku");
 		System.out.println("para ler instruções de como jogar digite \"1\":  ");
 		System.out.println("Para iniciar o jogo digite \"2\": ");
 		System.out.println("Se desejar sair do jogo  digite um numero negativo: ");
